@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a statistician based in NYC. I currently work as a Manager and Data Scientist at [The Rockefeller Foundation](https://www.rockefellerfoundation.org) (a philanthropic organization) where I advise and provide technical analysis to our initiatives and grant-making projects.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before Rockefeller I worked as a Data Scientist at BuzzFeed where I focused on understanding and modeling programmatic advertisement. Formerly, I was a Statistical Geneticist at Feinstein Institutes for Medical Research in Long Island where [I developed models to study endometriosis](https://molmed.biomedcentral.com/articles/10.1186/s10020-018-0009-6).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently, I am a board member of the [Stan Governing Body](https://mc-stan.org/about/).
 
-
-[jekyll-organization]: https://github.com/jekyll
+I have a Graduate Diploma in Statistics and Stochastic Processes by the University of Melbourne (Australia) and BA by the University of Guadalajara (Mexico).
