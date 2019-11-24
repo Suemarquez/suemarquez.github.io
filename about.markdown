@@ -11,3 +11,5 @@ Before Rockefeller I worked as a Data Scientist at BuzzFeed where I focused on u
 Currently, I am a board member of the [Stan Governing Body](https://mc-stan.org/about/).
 
 I have a Graduate Diploma in Statistics and Stochastic Processes by the University of Melbourne (Australia) and BA by the University of Guadalajara (Mexico).
+
+Views expressed are my own.
