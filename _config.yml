@@ -21,16 +21,18 @@
 title: Sue Marquez
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal site where I write about statistical workflows.
+  Welcome to my personal site where I write about my interests in statistics, innovation and causal inference.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SueMarquezR
 github_username:  suemarquez
+linkedin_username: susana-marquez-r
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
